@@ -1,0 +1,16 @@
+.headerShop {
+  display: flex;
+  background-color: rgb(173, 97, 97);
+  a {
+    font-size: 2rem;
+    color: white;
+  }
+}
+
+*,
+::after,
+::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
